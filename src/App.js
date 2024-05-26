@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>Hi, I am learning web development with React.</p>
+        <p>I am still trying to understand how to use props.</p>
       </header>
     </div>
   );
